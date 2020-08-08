@@ -1,7 +1,7 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tollii&hide=TeX&layout=compact)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tollii.tollii)
 <!--
 **Tollii/Tollii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
