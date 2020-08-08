@@ -14,8 +14,8 @@ const degree = { name: 'Norwegian University of Science and Technology', major: 
 $ which os
 Users/tollii/MBP/macOS
 
-$ ls -S ./hobbies
-gaming travel programming 
+$ ls -aS ./hobbies
+gaming.exe travel.pdf .programming 
 
 $ cat .jp
 日本語を勉強します。いつか日本を働きます！
