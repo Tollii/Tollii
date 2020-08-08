@@ -31,7 +31,7 @@ skills
       │     │      └── TypeScript.ts
       │     ├── python.py
       │     ├── ruby.rb
-      │     └── OOP.java
+      │     └── Main.java
       └─── other
             ├── .git
             ├── Dockerfile
