@@ -8,7 +8,7 @@ $ grep -i employer about_me.js
 const employer = 'Piscada AS';
 
 $ which os
-Users/Tollii/MBP/macOS
+Users/tollii/MBP/macOS
 
 $ ls -S tolli/hobbies
 gaming travel programming 
