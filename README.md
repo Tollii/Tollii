@@ -13,6 +13,9 @@ Users/tollii/MBP/macOS
 $ ls -S tolli/hobbies
 gaming travel programming 
 
+$ cat .jp
+日本語を勉強します。いつか日本を働きます！
+
 $ tree tolli/skills
 tolli/skills
 └─── technologies
@@ -32,13 +35,6 @@ tolli/skills
       ├── OOP.java
       ├── style_sheet.css
       └── index.html
-   
-   
-│
-└───
-
-$ cat .jp
-日本語を勉強します。いつか日本を働きます！
 
 ```
 
