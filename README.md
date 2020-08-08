@@ -1,5 +1,4 @@
 ```
-
 $ whoami
 Andreas
 
@@ -42,6 +41,5 @@ tolli/skills
       
 $ find tolli/contact email
 tolnes@protonmail.com
-
 ```
 
