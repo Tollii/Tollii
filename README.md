@@ -37,11 +37,7 @@ tolli/skills
       └── index.html
 
 ```
-
+</br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tollii&hide=TeX&layout=compact) </br>
-
-├───wasd
-│
-└───
