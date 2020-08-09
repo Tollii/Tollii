@@ -25,8 +25,8 @@ $ cat .jp
 $ tree ./skills
 skills
  └─── technologies
-       └─── languages
-       │     └─── javascript
+       ├─── languages
+       │     ├─── javascript
        │     │     ├── React.js
        │     │     ├── Node.js
        │     │     ├── Express.js
