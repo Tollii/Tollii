@@ -27,7 +27,7 @@ skills
  └─── technologies
        └─── languages
        │     └─── javascript
-       │     │     ├── React.jsx
+       │     │     ├── React.js
        │     │     ├── Node.js
        │     │     ├── Express.js
        │     │     └── TypeScript.ts
@@ -36,14 +36,13 @@ skills
        │     └── Main.java
        └─── other
              ├── .git
-             ├── Dockerfile
+             ├── index.html
+             ├── style_sheet.sass
              ├── database.sql
-             ├── REST
+             ├── Dockerfile
              ├── ORM
-             ├── style_sheet.css
-             └── index.html
-  
-      
+             └── REST
+
 $ find ./contact email
 tolnes@protonmail.com
 ```
