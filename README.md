@@ -17,7 +17,7 @@ $ which os
 Users/tollii/MBP/macOS
 
 $ ls -aS ./hobbies
-gaming.exe travel.pdf .programming 
+gaming.exe travel.pdf programming.py
 
 $ cat .jp
 日本語を勉強します。いつか日本を働きます！
