@@ -28,13 +28,14 @@ skills
        │     │     ├── Node.js
        │     │     ├── Express.js
        │     │     └── TypeScript.ts
-       │     ├── python.py
-       │     ├── ruby.rb
+       │     ├── main.cpp
+       │     ├── __main__.py
+       │     ├── __FILE__.rb
        │     └── Main.java
        └─── other
              ├── .git
              ├── index.html
-             ├── style_sheet.sass
+             ├── style.sass
              ├── database.sql
              ├── Dockerfile
              ├── ORM
