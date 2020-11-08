@@ -11,7 +11,7 @@ $ cd about_me
 
 $ grep -i 'employer|degree' ./about_me.js
 const employer = { name: 'Piscada', location: 'Trondheim' };
-const degree = { name: 'Norwegian University of Science and Technology', major: 'Software Engineering B.Eng' };
+const degree = { name: 'Norwegian University of Science and Technology', major: 'Software Engineering, B.Eng' };
 
 $ which os
 Users/tollii/MBP/macOS
@@ -25,12 +25,14 @@ skills
        ├─── languages
        │     ├─── javascript
        │     │     ├── React.js
+       │     │     ├── Vue.js
        │     │     ├── Node.js
        │     │     ├── Express.js
        │     │     └── TypeScript.ts
        │     ├── main.cpp
        │     ├── __main__.py
        │     ├── __FILE__.rb
+       │     ├── main.cpp
        │     └── Main.java
        └─── other
              ├── .git
