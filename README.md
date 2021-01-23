@@ -42,7 +42,6 @@ skills
              ├── style.sass
              ├── database.sql
              ├── Dockerfile
-             ├── ORM
              └── REST
 
 $ find ./contact email
