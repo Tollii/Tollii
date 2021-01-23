@@ -50,4 +50,3 @@ tolnes@protonmail.com
 ```
 
 [LinkedIn](https://www.linkedin.com/in/andreas-tolnes-227788cha/)</br>
-[Piscada](https://www.piscada.com)
