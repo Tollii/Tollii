@@ -10,7 +10,7 @@ Tollii 1998.0
 $ cd about_me
 
 $ grep -i 'employer|degree' ./about_me.js
-const employer = { name: 'Piscada', location: 'Trondheim' };
+const employer = { name: 'Aditro', location: 'Trondheim' };
 const degree = { name: 'Norwegian University of Science and Technology', major: 'Software Engineering, B.Eng' };
 
 $ which os
