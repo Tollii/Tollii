@@ -14,7 +14,7 @@ const employer = { name: 'Aditro', location: 'Trondheim' };
 const degree = { name: 'Norwegian University of Science and Technology', major: 'Software Engineering, B.Eng' };
 
 $ which os
-Users/tollii/MBP/macOS
+/mnt/c/Windows
 
 $ ls -aS ./hobbies
 gaming.exe travel.pdf programming.py
@@ -25,7 +25,6 @@ skills
        ├─── languages
        │     ├─── javascript
        │     │     ├── React.js
-       │     │     ├── Vue.js
        │     │     ├── Node.js
        │     │     ├── Express.js
        │     │     └── TypeScript.ts
