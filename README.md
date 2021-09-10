@@ -26,6 +26,7 @@ skills
        │     ├─── javascript
        │     │     ├── React.js
        │     │     ├── Node.js
+       │     │     ├── Angular.js
        │     │     ├── Express.js
        │     │     └── TypeScript.ts
        │     ├── main.cpp
