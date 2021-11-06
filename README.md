@@ -1,6 +1,6 @@
-## #!/bin/bash
+``` bash
+#!/bin/bash
 
-```
 $ whoami
 Andreas
 
@@ -17,7 +17,7 @@ $ which os
 /mnt/c/Windows
 
 $ ls -aS ./hobbies
-gaming.exe travel.pdf programming.py
+gaming.exe travel.ical programming.py
 
 $ tree ./skills
 skills
@@ -27,25 +27,18 @@ skills
        │     │     ├── React.js
        │     │     ├── Node.js
        │     │     ├── Angular.js
-       │     │     ├── Express.js
        │     │     └── TypeScript.ts
        │     ├── main.cpp
        │     ├── __main__.py
-       │     ├── __FILE__.rb
        │     ├── main.cpp
        │     ├── Main.cs
        │     └── Main.java
-       └─── other
+       └─── tools
              ├── .git
-             ├── .NET
-             ├── index.html
-             ├── style.sass
-             ├── database.sql
-             ├── Dockerfile
-             └── REST
+             ├── NET.sln
+             ├── relational_db.sql
+             └── Dockerfile
 
 $ find ./contact email
 tolnes@protonmail.com
 ```
-
-[LinkedIn](https://www.linkedin.com/in/andreas-tolnes-227788cha/)</br>
