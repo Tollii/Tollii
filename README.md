@@ -24,11 +24,8 @@ skills
  └─── technologies
        ├─── languages
        │     ├─── javascript
-       │     │     ├── React.js
-       │     │     ├── Node.js
        │     │     ├── Angular.js
        │     │     └── TypeScript.ts
-       │     ├── main.cpp
        │     ├── __main__.py
        │     ├── Main.cs
        │     └── Main.java
