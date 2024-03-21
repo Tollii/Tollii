@@ -1,4 +1,4 @@
-``` bash
+```
 #!/bin/bash
 
 $ whoami
@@ -10,31 +10,33 @@ Tollii 19.98
 $ cd about_me
 
 $ grep -i 'employer|degree' ./about_me.js
-const employer = { name: 'SD Worx', location: 'Trondheim' };
+const employer = { name: 'Accenture', location: 'Trondheim' };
 const degree = { name: 'Norwegian University of Science and Technology', major: 'Software Engineering, B.Eng' };
 
 $ which os
 /mnt/c/Windows
 
-$ ls -aS ./hobbies
+$ ls  ./hobbies
 gaming.exe travel.ical programming.py
 
 $ tree ./skills
 skills
  └─── technologies
        ├─── languages
-       │     ├─── javascript
-       │     │     ├── Angular.js
-       │     │     └── TypeScript.ts
-       │     ├── __main__.py
-       │     ├── Main.cs
+       │     ├── app.js
+       │     ├── app.py
+       │     ├── Program.cs
        │     └── Main.java
+       ├─── frameworks
+       │     ├── Angular.ts
+       │     ├── React.tsx
+       │     └── Dotnet.csproj
        └─── tools
              ├── .git
-             ├── NET.sln
              ├── relational_db.sql
+             ├── docker-compose.yml
              └── Dockerfile
 
-$ find ./contact email
-tolnes@protonmail.com
+$ find ./contact mailto
+mailto:tolnes@proton.me
 ```
